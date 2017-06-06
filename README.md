@@ -26,3 +26,9 @@ This is essentially very different from a nightclub, you want to know what peopl
 
 The amount of data the Prowlbox would be receiving would be overwhelming, which is why we have a bigger Prowlbox for bigger events, with stronger hardware, usually the Prowlbox can handle up to 500 patrons at a time. When you're talking a music festival you are talking several thousdands, in some cases tens of thousands. 
 
+
+# Retail Stores 
+
+Implanting a Prowlbox at your retail store could be crucial for your PoS service, and you PoP. For example, to see what music to play to get the best customer retention, but to get the customer to make their purchase quickly to make other customers feel more attended to by your staff. 
+
+![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
