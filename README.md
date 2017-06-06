@@ -14,6 +14,10 @@ So there's a couple of things you can do with this data that you capture at a ni
 * Take the data you get, then know what artist to book for your next event.
 * Know your demographic better, market in different ways, for more of a population outcome. 
 
+Graph out your population each event you throw.
+
+![documentations](https://sites.google.com/a/academicrightspress.com/arp/_/rsrc/1456074309358/entertainment/music/music/Flyer%20graph%20image.png)
+
 # Coffee Shops 
 
 This is essentially very different from a nightclub, you want to know what people are listening to so you can cater to your customers listening habits by playing stuff over your system when they walk in, they are more inclined to come back to that coffee shop, and set the perfect atmosphere for customer retention. 
