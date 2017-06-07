@@ -7,7 +7,7 @@ We've installed Prowlboxes at various venues, but nothing as diverse as a nightc
 
 ![documentations](http://getprowl.com/assets/images/prowlbox.jpg)
 
-This is so you can see your patrons playlist (once they are connected to your WiFi, they automatically accept the ToS by accepting the ToS. So this is completely fine. 
+This is so you can see your patrons playlist (once they are connected to your WiFi, they automatically accept the ToS by accepting the ToS that the club's WiFi has. So this is completely fine. 
 
 So there's a couple of things you can do with this data that you capture at a nightclub when you purchase a Prowlbox. 
 
