@@ -35,7 +35,7 @@ Implanting a Prowlbox at your retail store could be crucial for your PoS service
 
 With some of the software we offer (along side the box) is heatmaps of the store where it gets cold at certain times, and why this might be - to see if that customer was listening to music at that time or not, or at the very LEAST to see what their Spotify playlist says about their personality so Prowl can start bulding customer profiles on individual customers.
 
-## Common Troubleshooting Processes You Can Use
+## Common Troubleshooting Processes You Can Use In Real Life Scenarios
 
 If the Prowlbox "quits" working, e.g. stops collecting data, you can bring your MacBook, boot into the box, and make sure the container is running, via running 
 
