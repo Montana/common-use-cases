@@ -43,6 +43,6 @@ If the Prowlbox "quits" working, e.g. stops collecting data, you can bring your 
 
 If you get results, then reboot the container via: 
 
-<pre>docker restart<pre> 
+<pre>docker restart</pre> 
 
 That should solve 99% of the issues, we are currently working for a fix on this problem, it's only happened once. One time is too many though for our device to fail. This will be solved within the week of this MD page being made. 
