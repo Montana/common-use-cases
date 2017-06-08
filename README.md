@@ -34,3 +34,15 @@ Implanting a Prowlbox at your retail store could be crucial for your PoS service
 ![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
 
 With some of the software we offer (along side the box) is heatmaps of the store where it gets cold at certain times, and why this might be - to see if that customer was listening to music at that time or not, or at the very LEAST to see what their Spotify playlist says about their personality so Prowl can start bulding customer profiles on individual customers.
+
+## Common Troubleshooting Processes You Can Use
+
+If the Prowlbox "quits" working, e.g. stops collecting data, you can bring your MacBook, boot into the box, and make sure the container is running, via running 
+
+<pre>docker inspect -f prowlbox</pre>
+
+If you get results, then reboot the container via: 
+
+<pre>docker restart<pre> 
+
+That should solve 99% of the issues, we are currently working for a fix on this problem, it's only happened once. One time is too many though for our device to fail. This will be solved within the week of this MD page being made. 
