@@ -41,7 +41,7 @@ If the Prowlbox "quits" working, e.g. stops collecting data, you can bring your 
 
 <pre>docker inspect -f prowlbox</pre>
 
-If you get results, then reboot the container via: 
+If you get results, then reboot the container via
 
 <pre>docker restart</pre> 
 
