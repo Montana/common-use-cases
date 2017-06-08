@@ -29,7 +29,7 @@ The amount of data the Prowlbox would be receiving would be overwhelming, which 
 
 # Retail Stores 
 
-Implanting a Prowlbox at your retail store could be crucial for your PoS service, and you PoP. For example, to see what music to play to get the best customer retention, but to get the customer to make their purchase quickly to make other customers feel more attended to by your staff. 
+Implanting a Prowlbox at your retail store could be crucial for your PoS service, and your PoP. For example, to see what music to play to get the best customer retention, but to get the customer to make their purchase quickly to make other customers feel more attended to by your staff. 
 
 ![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
 
