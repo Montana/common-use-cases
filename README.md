@@ -22,6 +22,9 @@ Graph out your population each event you throw.
 
 This is essentially very different from a nightclub, you want to know what people are listening to so you can cater to your customers listening habits by playing stuff over your system when they walk in, they are more inclined to come back to that coffee shop, and set the perfect atmosphere for customer retention. 
 
+![documentations]https://static1.squarespace.com/static/55b65ffee4b0eeee5d6a5a39/55ee11a0e4b06837e7058b5d/55ee11a3e4b0c46828ed5176/1441665454847/3+Ideas4.jpg)
+
+
 # Music Festivals 
 
 The amount of data the Prowlbox would be receiving would be overwhelming, which is why we have a bigger Prowlbox for bigger events, with stronger hardware, usually the Prowlbox can handle up to 500 patrons at a time. When you're talking a music festival you are talking several thousdands, in some cases tens of thousands. 
