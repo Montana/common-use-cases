@@ -36,13 +36,13 @@ The amount of data the Prowlbox would be receiving would be overwhelming, which 
 
 Implanting a Prowlbox at your retail store could be crucial for your PoS service, and your PoP. For example, to see what music to play to get the best customer retention, but to get the customer to make their purchase quickly to make other customers feel more attended to by your staff. 
 
+![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
+
 # Getting Moods from Playlist
 
 We can decipher moods from people's playlist, which of course depending on the mood of the overall crowd in your coffee shop/retail store, you can switch the music to say "upbeat  music" to increase chances of sales, via mood, or even play more depressing music so the people shop via "Retail Therapy". 
 
-![documentations](www.getprowl.com/assets/images/flow.png)
-
-![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
+![documentations](http://www.getprowl.com/assets/images/flow.png)
 
 With some of the software we offer (along side the box) is heatmaps of the store where it gets cold at certain times, and why this might be - to see if that customer was listening to music at that time or not, or at the very LEAST to see what their Spotify playlist says about their personality so Prowl can start bulding customer profiles on individual customers.
 
