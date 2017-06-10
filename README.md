@@ -38,7 +38,7 @@ Implanting a Prowlbox at your retail store could be crucial for your PoS service
 
 ![documentations](http://d3fi73yr6l0nje.cloudfront.net/PublishingImages/rsz_retailnext_heatmap_art_03-2012.jpg)
 
-# Getting Moods from Playlist
+# Getting omods from playlists
 
 We can decipher moods from people's playlist, which of course depending on the mood of the overall crowd in your coffee shop/retail store, you can switch the music to say "upbeat  music" to increase chances of sales, via mood, or even play more depressing music so the people shop via "Retail Therapy". 
 
