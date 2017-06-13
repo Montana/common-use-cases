@@ -1,8 +1,6 @@
 ![documentations](http://getprowl.com/assets/images/documentation1.png)
 <h1 align="center">Common Use Cases with Prowl</h1>
 
-[Back Home](https://www.getprowl.com)
-
 # Nightclubs 
 
 We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
@@ -61,3 +59,5 @@ If you get results, then reboot the container via
 ![documentations](https://getprowl.com/assets/images/terminal.png)
 
 That should solve 99% of the issues, we are currently working for a fix on this problem, it's only happened once. One time is too many though for our device to fail. This will be solved within the week of this MD page being made. 
+
+[Back Home](https://www.getprowl.com)
