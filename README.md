@@ -2,7 +2,7 @@
 
 <h1 align="center">Common Use Cases with Prowl</h1>
 
-</br> # Nightclubs </br>
+# Nightclubs 
 
 We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
 
