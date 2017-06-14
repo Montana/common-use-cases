@@ -1,9 +1,8 @@
 ![documentations](http://getprowl.com/assets/images/documentation1.png)
 
-<br><h1 align="center">Common Use Cases with Prowl</h1></br>
+<h1 align="center">Common Use Cases with Prowl</h1>
 
-
-# Nightclubs 
+</br> # Nightclubs </br>
 
 We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
 
