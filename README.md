@@ -1,6 +1,8 @@
 ![documentations](http://getprowl.com/assets/images/documentation1.png)
 
-<p><h1 align="center">Common Use Cases with Prowl</h1></p>
+<h1 align="center">Common Use Cases with Prowl</h1>
+
+<br>
 
 # Nightclubs 
 
