@@ -6,7 +6,7 @@
 
 # Nightclubs 
 
-We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
+We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub, or a bar. 
 
 ![documentations](http://getprowl.com/assets/images/prowlbox.jpg)
 
