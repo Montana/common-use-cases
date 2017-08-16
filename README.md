@@ -65,4 +65,6 @@ That should solve 99% of the issues, we are currently working for a fix on this 
 
 ## Using Vagrant
 
+First install Vagrant, go to http://www.vagrantup.com 
+
 [Back Home](https://www.getprowl.com)
